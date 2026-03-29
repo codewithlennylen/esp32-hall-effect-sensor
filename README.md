@@ -16,6 +16,11 @@ This project demonstrates using both this internal sensor and an external A3144 
 
 <img width="738" height="600" alt="image" src="https://github.com/user-attachments/assets/1b81f669-2846-4984-aa5a-bfb732a721da" />
 
+### Sample Output
+
+<img width="740" height="181" alt="image" src="https://github.com/user-attachments/assets/1d6dc1b0-a2da-45fd-a2dd-400bc645067e" />
+
+
 
 ### References
 
